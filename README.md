@@ -5,5 +5,5 @@
 * When the degree is between 345 - 15 degrees, the color of the text changes to green
 
 ## Resources used
-https://www.youtube.com/watch?v=pkT7DU1Yo9Q
-https://www.youtube.com/watch?v=Dqg1A4hy-jI
+* https://www.youtube.com/watch?v=pkT7DU1Yo9Q
+* https://www.youtube.com/watch?v=Dqg1A4hy-jI
