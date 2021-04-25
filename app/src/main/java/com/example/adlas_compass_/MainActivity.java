@@ -111,11 +111,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void ResetButton(View view){
-
-        imageView.setRotation(180);
-    }
-
     public void openAccelerometer(){
         Intent intent = new Intent(this, MainActivity2.class);
         startActivity(intent);
