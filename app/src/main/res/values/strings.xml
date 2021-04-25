@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adlas_compass_</string>
+    <string name="todo">TODO</string>
+    <string name="reset">Reset</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="compass">Compass</string>
+    <string name="x_view">TextView</string>
+    <string name="y_view">TextView</string>
+    <string name="z_view">TextView</string>
+    <string name="azimuth">TextView</string>
+</resources>
