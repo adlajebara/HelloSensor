@@ -1,6 +1,6 @@
 # HelloSensor
 
-##Expansion of the compass
+## Expansion of the compass
 * When the degree is 0, it releases a sound
 * When the degree is between 345 - 15 degrees, the color of the text changes to green
 
